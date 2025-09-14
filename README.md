@@ -1,4 +1,6 @@
-# FastAPI Transmission Backend
+## Purpose
+
+This app acts as a backend tool to send torrent URLs to a Transmission downloader. It is designed for integration with an MCP server and will serve as a component of a torrent operation agent, enabling automated torrent management and remote download operations.
 
 ## Setup
 

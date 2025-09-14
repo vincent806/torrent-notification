@@ -54,4 +54,4 @@ This app acts as a backend tool to send torrent URLs to Transmission or qBittorr
 
 - Set `DOWNLOAD_CLIENT` in `.env` to choose between Transmission or qBittorrent
 - Ensure the selected download client is running and accessible with the credentials provided in `.env`
-- This backend supports both Transmission v3.00 and qBittorrent
+- This backend supports both Transmission and qBittorrent
